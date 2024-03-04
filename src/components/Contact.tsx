@@ -1,5 +1,5 @@
-import LinkButtons from './LinkButtons';
-import './Contact.css';
+import LinkButtons from "./LinkButtons";
+import "./Contact.css";
 
 const Contact = () => {
   return (
@@ -15,6 +15,6 @@ const Contact = () => {
       <LinkButtons />
     </div>
   );
-}
+};
 
 export default Contact;
